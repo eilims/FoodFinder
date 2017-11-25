@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FoodFinder</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="catagories">
+        <item>All</item>
+        <item>Mexican</item>
+        <item>French</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Thai</item>
+        <item>Mediterranean</item>
+    </string-array>
+</resources>
