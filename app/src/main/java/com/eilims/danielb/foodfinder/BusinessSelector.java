@@ -26,9 +26,9 @@ public class BusinessSelector {
     YelpAPIFactory apiFactory;
     YelpAPI yelpAPI;
     String client_id = "xVPgWOQ7NT9tlNM0zvI1Rw";
-    String client_secret = "dELXjnQzAJTie-DfGfsfMNu_Yp4";
+    String client_secret = "xxx";
     String token = "iXibWHqxTbfJ0juqXnXAd866aOFrrKVl";
-    String token_secret = "R-eoVAGOS8mNaNkngDWGbx5CihA";
+    String token_secret = "xxx";
     String catagories = "restaurants"; //TODO will be set by appropriate method later
     Location mCurrentLocation;
     Response<SearchResponse> response = null;
